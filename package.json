@@ -1,9 +1,28 @@
 {
-  "name": "Solve-Quadratic",
-  "version": "1.0.0",
+  "name": "solve-quadratic",
+  "version": "1.0.1",
   "private": false,
-  "scripts": {
+  "scripts": {},
+  "dependencies": {},
+  "description": "A quadratic equation solver.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "tests",
+    "lib": "lib"
   },
-  "dependencies": {
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeballcode/Solve-Quadratic.git"
+  },
+  "keywords": [
+    "quadratic",
+    "equation"
+  ],
+  "author": "eyeballcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyeballcode/Solve-Quadratic/issues"
+  },
+  "homepage": "https://github.com/eyeballcode/Solve-Quadratic#readme",
+  "devDependencies": {}
 }
