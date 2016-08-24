@@ -9,4 +9,4 @@ Syntax:
 
 If you find yourself with an imaginary number exception, it means that the quadratic equation you got cannot be solved.
 
-Try it live [here](https://devdoodle.net/dev/41)
+Try it live [here](https://devdoodle.net/dev/QUAY8kJV86Fz1xyuRahw2!KyBIju)
